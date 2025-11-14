@@ -1,0 +1,13 @@
+@import url(../css/base/reset.css);
+
+.wrapper {
+  height: 100%;
+  max-width: 1460px;
+  margin: 0 auto;
+  padding-inline: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* card */
